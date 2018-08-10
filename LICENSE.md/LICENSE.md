@@ -1,1 +1,1 @@
-This code belongs to Cilga Iscan only!
+This repo and codes belong to Cilga Iscan only!
